@@ -29,10 +29,6 @@ sections:
         text: >
           Need to use a breadboard, wire strippers or CD-Rs? Need to use an
           Altera DE2 Board or an oscilloscope for a project? We got your back.
-        textFr: >
-          Besoin d'une planche à pain, des pinces à dénuder ou des CD-R ? Besoin
-          d'utiliser une carte Altera DE2 ou un oscilloscope pour un projet ?
-          Nous avons tout!
         actions: []
         styles:
           self:
