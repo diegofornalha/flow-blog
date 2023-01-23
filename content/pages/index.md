@@ -143,7 +143,7 @@ sections:
           url: /images/Bootcamp.png
           altText: altText of the image
           caption: Caption of the image
-          width: 500
+          width: 200
           height: 500
           elementId: ''
       - type: FeaturedItem
