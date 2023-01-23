@@ -73,7 +73,7 @@ sections:
         featuredIcon: youtube
       - type: FeaturedItem
         title: Borrow textbooks
-        titleFr: livros didáticos emprestados
+        titleFr: Livros didáticos emprestados
         text: >
           Need to borrow a textbook for one of your courses? Take advantage of
           our carefully curated selection of EECS textbooks at no cost.
