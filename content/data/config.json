@@ -120,7 +120,7 @@
                 "type": "Button",
                 "label": "Login",
                 "altText": "Login",
-                "style": "secondary",
+                "style": "primary",
                 "url": "https://flow.coflow.com.br",
                 "showIcon": true,
                 "icon": "chevronLeft",
