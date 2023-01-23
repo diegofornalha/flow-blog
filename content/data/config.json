@@ -4,7 +4,7 @@
     "header": {
         "headerVariant": "variant-b",
         "isSticky": true,
-        "primaryColors": "colors-b",
+        "primaryColors": "colors-a",
         "secondaryColors": "colors-d",
         "isTitleVisible": false,
         "primaryLinks": [
