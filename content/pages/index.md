@@ -22,27 +22,7 @@ sections:
     titleFr: Conheça nosso Blog
     subtitle: All about Flow Blockchain
     subtitleFr: Tudo sobre Flow Blockchain
-    items:
-      - type: FeaturedItem
-        title: Get homework help
-        titleFr: Obtenha ajuda com sua lição de casa
-        text: >
-          Need to study with your friends in a quiet environment to prepare for
-          your midterm? Our office is the perfect place for that.
-        actions: []
-        styles:
-          self:
-            textAlign: left
-        isIcon: true
-        featuredImage:
-          type: ImageBlock
-          url: /images/video-play.svg
-          altText: coflow-video
-          caption: coflow-video
-          width: 300
-          height: 300
-          elementId: ''
-        featuredIcon: youtube
+    items: []
     actions:
       - type: Button
         label: Most Recent Posts
