@@ -113,7 +113,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/video-play.svg
-          altText: altText of the image
+          altText: coflow-video
           caption: Caption of the image
           width: 300
           height: 300
