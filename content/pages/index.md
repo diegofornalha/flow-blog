@@ -122,7 +122,7 @@ sections:
       - type: FeaturedItem
         elementId: ''
         title: BootCamp
-        titleFr: Reunião do gênio da informação
+        titleFr: BootCamp
         subtitleFr: '23/11/2022, 18:00 - 20:00'
         isIcon: false
         featuredImage:
