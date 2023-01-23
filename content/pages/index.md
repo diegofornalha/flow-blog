@@ -20,7 +20,7 @@ sections:
     elementId: ''
     title: Come visit us in the office
     titleFr: Conheça nosso Blog
-    subtitle: '800 King Edward Ave, Ottawa, ON K1N 6N5, STE 4026'
+    subtitle: Tudo sobre Flow Blockchain
     subtitleFr: '800 King Edward Ave, Ottawa, ON K1N 6N5, STE 4026'
     items:
       - type: FeaturedItem
