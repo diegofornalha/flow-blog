@@ -25,7 +25,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Use our lab equipment
-        titleFr: Utilisez notre équipement de laboratoire
+        titleFr: Use nossos equipamentos de laboratório
         text: >
           Need to use a breadboard, wire strippers or CD-Rs? Need to use an
           Altera DE2 Board or an oscilloscope for a project? We got your back.
