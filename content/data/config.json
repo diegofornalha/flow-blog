@@ -142,7 +142,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/flow-coflow-logo-f2cb760a.png",
-            "altText": "IEEE uOttawa Logo",
+            "altText": "CoFlow Logo",
             "caption": "IEEE uOttawa ",
             "width": 114,
             "height": 48,
