@@ -198,7 +198,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: 'https://www.facebook.com/ieeeuottawa/photos'
+        url: 'https://flow.coflow.com.br'
     backgroundImage:
       type: ImageBlock
       url: /images/gridgallery.png
