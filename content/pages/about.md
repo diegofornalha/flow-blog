@@ -284,7 +284,7 @@ metaTags:
     content: 'https://ieeeuottawa.ca/about'
   - type: MetaTag
     property: 'og:site_name'
-    content: IEEE uOttawa Student Branch
+    content: CoFlow
   - type: MetaTag
     property: 'twitter:site'
     content: '@ieeeuottawa'
