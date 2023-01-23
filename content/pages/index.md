@@ -121,7 +121,7 @@ sections:
     items:
       - type: FeaturedItem
         elementId: ''
-        title: Comp Eng Hangout
+        title: BootCamp
         titleFr: Reunião do gênio da informação
         subtitle: '11/23/2022, 6PM - 8PM'
         subtitleFr: '23/11/2022, 18:00 - 20:00'
