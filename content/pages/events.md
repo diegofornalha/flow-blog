@@ -9,8 +9,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Events
-    titleFr: 
-Eventos
+    titleFr: Eventos
     text: |
       Checkout our upcoming events and our past events!
     textFr: |
