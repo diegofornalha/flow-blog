@@ -43,6 +43,9 @@ sections:
           width: 300
           height: 300
           elementId: ''
+        textFr: |+
+          ...
+
       - type: FeaturedItem
         title: Get homework help
         titleFr: Obtenha ajuda com sua lição de casa
