@@ -108,7 +108,6 @@ sections:
         styles:
           self:
             textAlign: left
-        featuredIcon: vimeo
         isIcon: true
         featuredImage:
           type: ImageBlock
