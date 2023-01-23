@@ -124,9 +124,6 @@ sections:
         title: BootCamp
         titleFr: Reunião do gênio da informação
         subtitleFr: '23/11/2022, 18:00 - 20:00'
-        text: >
-          Location: SITE 4026 Drop by the IEEE office, located in STE 4026, and
-          hang out with other CEG students!
         textFr: "Localização: LOCAL 4026\r\nVisite o escritório do IEEE, localizado na STE 4026, e converse com outros alunos do CEG!\n"
         isIcon: false
         featuredImage:
