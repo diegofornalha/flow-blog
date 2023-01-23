@@ -146,7 +146,7 @@ sections:
           url: /images/1.png
           altText: altText of the image
           caption: Caption of the image
-          width: 300
+          width: 500
           height: 300
           elementId: ''
       - type: FeaturedItem
