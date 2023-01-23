@@ -43,24 +43,6 @@ sections:
           height: 300
           elementId: ''
         featuredIcon: youtube
-      - type: FeaturedItem
-        title: Borrow textbooks
-        titleFr: Livros didáticos emprestados
-        text: >
-          Need to borrow a textbook for one of your courses? Take advantage of
-          our carefully curated selection of EECS textbooks at no cost.
-        actions: []
-        styles:
-          self:
-            textAlign: left
-        featuredImage:
-          type: ImageBlock
-          url: /images/books.svg
-          altText: Textbooks illustration
-          caption: Caption of the image
-          elementId: ''
-        featuredIcon: books
-        isIcon: true
     actions:
       - type: Button
         label: Most Recent Posts
