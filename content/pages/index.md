@@ -144,7 +144,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/1.png
-          altText: altText of the image
+          altText: Cursos
           caption: Caption of the image
           width: 500
           height: 500
