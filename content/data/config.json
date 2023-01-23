@@ -119,7 +119,7 @@
             {
                 "type": "Button",
                 "label": "Shop",
-                "altText": "Profille",
+                "altText": "Profile",
                 "style": "secondary",
                 "url": "https://ieee-uottawa.square.site/",
                 "showIcon": true,
