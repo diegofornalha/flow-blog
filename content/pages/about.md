@@ -109,10 +109,10 @@ sections:
           mentorship program that pair first year students with upper year
           students to ease them into their new university life.
         textFr: >-
-          Dirigé par notre chapitre Women In Engineering (WIE), Big Eng Little
-          Eng est un programme de mentorat qui jumelle des étudiants de première
-          année avec des étudiants de niveau supérieur pour les aider à
-          s'intégrer dans leur nouvelle vie universitaire.
+          Liderado por nosso capítulo Women In Engineering (WIE), Big Eng Little
+          Eng é um programa de orientação que une alunos da primeira série
+          ano com alunos de nível superior para ajudá-los
+          integrar na sua nova vida universitária.
         actions: []
         styles:
           self:
