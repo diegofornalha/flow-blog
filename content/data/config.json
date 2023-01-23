@@ -152,7 +152,7 @@
     },
     "footer": {
         "variant": "variant-b",
-        "colors": "colors-c",
+        "colors": "colors-a",
         "contacts": {
             "title": "Contact details",
             "phoneNumber": "613-562-5800 ext. 6196",
