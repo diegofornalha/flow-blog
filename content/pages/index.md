@@ -138,6 +138,15 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: altText of the image
+          caption: Caption of the image
+          width: 300
+          height: 300
+          elementId: ''
       - type: FeaturedItem
         elementId: ''
         title: Conteúdo
