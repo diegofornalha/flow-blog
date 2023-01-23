@@ -33,7 +33,7 @@ sections:
         showIcon: false
       - type: Button
         label: Office Hours
-        altText: Office Hours / Heures de Bureau
+        altText: 'Office Hours '
         url: /office-hours
         showIcon: false
         icon: arrowRight
