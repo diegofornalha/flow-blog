@@ -69,9 +69,6 @@ sections:
         text: >
           Need to borrow a textbook for one of your courses? Take advantage of
           our carefully curated selection of EECS textbooks at no cost.
-        textFr: >
-          Besoin d'emprunter un manuel pour l'un de vos cours ? Profitez
-          gratuitement de notre sélection de manuels EECS adapté à vos besoins.
         actions: []
         styles:
           self:
