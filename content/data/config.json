@@ -118,7 +118,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Shop",
+                "label": "Login",
                 "altText": "Shop",
                 "style": "secondary",
                 "url": "https://ieee-uottawa.square.site/",
