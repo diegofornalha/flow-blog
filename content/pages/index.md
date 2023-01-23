@@ -115,7 +115,7 @@ sections:
     colors: colors-b
     elementId: ''
     title: Grants Received
-    titleFr: Concessões  Recebidas / Em andamento
+    titleFr: Concessões
     subtitle: ''
     subtitleFr: ''
     items:
