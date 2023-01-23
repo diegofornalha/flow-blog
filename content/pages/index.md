@@ -180,7 +180,7 @@ sections:
       - type: FeaturedItem
         elementId: ''
         title: Comp Eng Hangout
-        titleFr: Rencontre de génie d'info
+        titleFr: Reunião do gênio da informação
         subtitle: '11/23/2022, 6PM - 8PM'
         subtitleFr: '23/11/2022, 18:00 - 20:00'
         text: >
