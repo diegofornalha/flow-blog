@@ -18,7 +18,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-b
     elementId: ''
-    title: Come visit us in the office
+    title: Meet our Blog
     titleFr: Conheça nosso Blog
     subtitle: All about Flow Blockchain
     subtitleFr: Tudo sobre Flow Blockchain
