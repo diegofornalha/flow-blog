@@ -187,7 +187,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Check out our gallery
-    titleFr: Visitez notre galerie de photos
+    titleFr: Visite nossa galeria de fotos
     subtitle: ''
     text: |
       Visit our gallery to see photos of events we have hosted in the past.
