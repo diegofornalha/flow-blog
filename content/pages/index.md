@@ -86,6 +86,15 @@ sections:
             textAlign: left
         featuredIcon: circuit
         isIcon: true
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: altText of the image
+          caption: Caption of the image
+          width: 300
+          height: 300
+          elementId: ''
       - type: FeaturedItem
         title: Get homework help
         titleFr: Obtenez de l'aide pour vos devoirs
