@@ -131,13 +131,7 @@ sections:
           height: 500
           elementId: ''
       - type: FeaturedItem
-        actions:
-          - type: Button
-            label: Learn More
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
+        actions: []
         styles:
           self:
             textAlign: left
