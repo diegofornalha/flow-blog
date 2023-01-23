@@ -115,7 +115,7 @@ sections:
     colors: colors-b
     elementId: ''
     title: Upcoming Events
-    titleFr: Próximos eventos
+    titleFr: Concessores recebidas
     subtitle: ''
     subtitleFr: ''
     items:
