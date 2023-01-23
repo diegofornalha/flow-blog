@@ -191,14 +191,7 @@ sections:
 
           Drop by the IEEE office, located in STE 4026, and hang out with other
           CEG students!
-        textFr: >
-          Lieu: SITE 4026
-
-
-
-
-          Passez au bureau de l'IEEE, situé dans le STE 4026, et passez du temps
-          avec d'autres étudiants du CEG !
+        textFr: "Localização: LOCAL 4026\r\nVisite o escritório do IEEE, localizado na STE 4026, e converse com outros alunos do CEG!\n"
         isIcon: false
         featuredImage:
           type: ImageBlock
