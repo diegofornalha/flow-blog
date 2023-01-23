@@ -131,10 +131,6 @@ sections:
           height: 500
           elementId: ''
       - type: FeaturedItem
-        textFr: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
         actions:
           - type: Button
             label: Learn More
