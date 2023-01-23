@@ -123,7 +123,7 @@
                 "style": "secondary",
                 "url": "https://flow.coflow.com.br",
                 "showIcon": true,
-                "icon": "cart",
+                "icon": "chevronLeft",
                 "iconPosition": "right",
                 "elementId": ""
             }
