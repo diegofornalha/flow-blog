@@ -144,7 +144,7 @@ sections:
           altText: altText of the image
           caption: Caption of the image
           width: 500
-          height: 300
+          height: 500
           elementId: ''
       - type: FeaturedItem
         elementId: ''
