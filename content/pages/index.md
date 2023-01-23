@@ -94,7 +94,7 @@ sections:
         isIcon: true
     actions:
       - type: Button
-        label: Office Hours
+        label: Postagens Mais Recentes
         altText: Postagens Mais Recentes
         url: /blog
         showIcon: false
