@@ -89,7 +89,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/profile.svg
-          altText: altText of the image
+          altText: coflow
           caption: Caption of the image
           width: 300
           height: 300
