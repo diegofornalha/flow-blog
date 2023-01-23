@@ -117,6 +117,7 @@ sections:
           width: 300
           height: 300
           elementId: ''
+        featuredIcon: apple
       - type: FeaturedItem
         title: Borrow textbooks
         titleFr: Empruntez des manuels scolaires
