@@ -90,7 +90,7 @@ sections:
           type: ImageBlock
           url: /images/profile.svg
           altText: coflow-perfil
-          caption: Caption of the image
+          caption: coflow-perfil
           width: 300
           height: 300
           elementId: ''
