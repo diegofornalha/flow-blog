@@ -127,7 +127,7 @@ sections:
           url: /images/9.png
           altText: discord
           caption: discord
-          width: 300
+          width: 500
           height: 300
           elementId: ''
       - type: FeaturedItem
