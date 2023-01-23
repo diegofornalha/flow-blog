@@ -128,7 +128,7 @@ sections:
           altText: discord
           caption: discord
           width: 500
-          height: 300
+          height: 500
           elementId: ''
       - type: FeaturedItem
         title: Smarter
