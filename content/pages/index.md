@@ -125,10 +125,6 @@ sections:
         titleFr: BootCamp
         subtitleFr: '23/11/2022, 18:00 - 20:00'
         isIcon: false
-        featuredImage:
-          type: ImageBlock
-          url: /images/ceg-hangout.jpeg
-          altText: Spectroscopy Seminar Poster
         featuredIcon:
           label: Apple
           value: apple
