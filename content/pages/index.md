@@ -137,9 +137,8 @@ sections:
         subtitle: '11/23/2022, 6PM - 8PM'
         subtitleFr: '23/11/2022, 18:00 - 20:00'
         text: >
-          Location: SITE 4026
-          Drop by the IEEE office, located in STE 4026, and hang out with other
-          CEG students!
+          Location: SITE 4026 Drop by the IEEE office, located in STE 4026, and
+          hang out with other CEG students!
         textFr: "Localização: LOCAL 4026\r\nVisite o escritório do IEEE, localizado na STE 4026, e converse com outros alunos do CEG!\n"
         isIcon: false
         featuredImage:
@@ -191,9 +190,8 @@ sections:
     subtitle: ''
     text: |
       Visit our gallery to see photos of events we have hosted in the past.
-    textFr: >
-      Visitez notre galerie pour voir les photos des événements que nous avons
-      organisés dans le passé.
+    textFr: |
+      Visite nossa galeria para ver fotos de eventos que já realizamos.
     actions:
       - type: Button
         label: Gallery
@@ -283,8 +281,8 @@ metaTags:
     content: '@ieeeuottawa'
 metaTitle: Powering Your Student Experience
 metaDescription: >-
-  The CoFlow is the official student branch for the
-  University of Ottawa and the official Sub-Association for ELG/CEG/SEG under
-  the Engineering Students Society (ESS).
+  The CoFlow is the official student branch for the University of Ottawa and the
+  official Sub-Association for ELG/CEG/SEG under the Engineering Students
+  Society (ESS).
 socialImage: /images/LOGO_HALLOWEEN.svg
 ---
