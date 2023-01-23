@@ -145,7 +145,7 @@ sections:
           type: ImageBlock
           url: /images/1.png
           altText: Cursos
-          caption: Caption of the image
+          caption: Cursos
           width: 500
           height: 500
           elementId: ''
