@@ -24,26 +24,6 @@ sections:
     subtitleFr: Tudo sobre Flow Blockchain
     items:
       - type: FeaturedItem
-        title: Use our lab equipment
-        titleFr: Use nossos equipamentos de laboratório
-        text: >
-          Need to use a breadboard, wire strippers or CD-Rs? Need to use an
-          Altera DE2 Board or an oscilloscope for a project? We got your back.
-        actions: []
-        styles:
-          self:
-            textAlign: left
-        featuredIcon: circuit
-        isIcon: true
-        featuredImage:
-          type: ImageBlock
-          url: /images/profile.svg
-          altText: coflow-perfil
-          caption: coflow-perfil
-          width: 300
-          height: 300
-          elementId: ''
-      - type: FeaturedItem
         title: Get homework help
         titleFr: Obtenha ajuda com sua lição de casa
         text: >
