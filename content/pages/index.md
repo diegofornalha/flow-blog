@@ -126,7 +126,7 @@ sections:
           type: ImageBlock
           url: /images/9.png
           altText: discord
-          caption: Caption of the image
+          caption: discord
           width: 300
           height: 300
           elementId: ''
