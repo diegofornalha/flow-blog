@@ -116,7 +116,6 @@ sections:
     elementId: ''
     title: Key value propositions
     subtitle: ''
-    subtitleFr: Section sous-titre
     items:
       - type: FeaturedItem
         title: Faster
