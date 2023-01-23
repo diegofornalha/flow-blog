@@ -145,7 +145,7 @@ sections:
       - type: FeaturedItem
         elementId: ''
         title: Conteúdo
-        titleFr: Titre de l'article
+        titleFr: Conteúdo
         subtitle: ''
         subtitleFr: ''
         text: >-
