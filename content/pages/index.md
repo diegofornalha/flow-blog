@@ -115,7 +115,7 @@ sections:
     colors: colors-b
     elementId: ''
     title: Grants Received
-    titleFr: Conceções  Recebidas
+    titleFr: Conseções  Recebidas
     subtitle: ''
     subtitleFr: ''
     items:
