@@ -114,7 +114,7 @@ sections:
           type: ImageBlock
           url: /images/video-play.svg
           altText: coflow-video
-          caption: Caption of the image
+          caption: coflow-video
           width: 300
           height: 300
           elementId: ''
