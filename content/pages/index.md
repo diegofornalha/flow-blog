@@ -20,7 +20,7 @@ sections:
     colors: colors-e
     backgroundSize: full
     title: Power Your Student Experience
-    titleFr: Boostez votre vie étudiante
+    titleFr: Impulsione sua vida de estudante
     subtitle: with the best sub-association on campus.
     subtitleFr: avec la meilleure sous-association du campus.
     actions:
