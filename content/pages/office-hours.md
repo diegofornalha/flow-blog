@@ -58,7 +58,7 @@ metaTags:
     content: 'https://ieeeuottawa.ca/contact'
   - type: MetaTag
     property: 'og:site_name'
-    content: IEEE uOttawa Student Branch
+    content: CoFlow
   - type: MetaTag
     property: 'twitter:site'
     content: '@ieeeuottawa'
