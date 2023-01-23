@@ -15,53 +15,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: HeroSection
-    elementId: homepage-hero-1
-    colors: colors-e
-    backgroundSize: full
-    title: Power Your Student Experience
-    titleFr: Impulsione sua vida de estudante
-    subtitle: with the best sub-association on campus.
-    subtitleFr: com a melhor subassociação do campus.
-    actions:
-      - type: Button
-        label: Learn More
-        url: /about
-        style: primary
-        iconPosition: right
-        icon: arrowRight
-        showIcon: false
-      - type: Button
-        label: Office Hours
-        altText: 'Office Hours '
-        url: /office-hours
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/Christmas 2022.JPG
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 25
-    styles:
-      self:
-        height: screen
-        width: wide
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: FeaturedItemsSection
     colors: colors-b
     elementId: ''
