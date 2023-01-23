@@ -20,7 +20,7 @@ sections:
     elementId: ''
     title: Come visit us in the office
     titleFr: Conheça nosso Blog
-    subtitle: Tudo sobre Flow Blockchain
+    subtitle: All about Flow Blockchain
     subtitleFr: Tudo sobre Flow Blockchain
     items:
       - type: FeaturedItem
