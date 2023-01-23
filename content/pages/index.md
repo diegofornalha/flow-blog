@@ -88,8 +88,7 @@ sections:
         isIcon: true
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/profile.svg
           altText: altText of the image
           caption: Caption of the image
           width: 300
