@@ -52,10 +52,6 @@ sections:
         text: >
           Need to study with your friends in a quiet environment to prepare for
           your midterm? Our office is the perfect place for that.
-        textFr: >
-          Besoin d'étudier avec vos amis dans un environnement calme pour vous
-          préparer pour votre mi-session ? Notre bureau est l'endroit idéal pour
-          cela.
         actions: []
         styles:
           self:
