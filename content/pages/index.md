@@ -19,7 +19,7 @@ sections:
     colors: colors-b
     elementId: ''
     title: Come visit us in the office
-    titleFr: Conhaça nosso blog
+    titleFr: Conheça nosso blog
     subtitle: '800 King Edward Ave, Ottawa, ON K1N 6N5, STE 4026'
     subtitleFr: '800 King Edward Ave, Ottawa, ON K1N 6N5, STE 4026'
     items:
