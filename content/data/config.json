@@ -119,7 +119,7 @@
             {
                 "type": "Button",
                 "label": "Login",
-                "altText": "Shop",
+                "altText": "Login",
                 "style": "secondary",
                 "url": "https://ieee-uottawa.square.site/",
                 "showIcon": true,
