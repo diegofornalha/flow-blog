@@ -173,7 +173,7 @@ sections:
     colors: colors-c
     elementId: ''
     title: Upcoming Events
-    titleFr: Prochains événements
+    titleFr: Próximos eventos
     subtitle: ''
     subtitleFr: ''
     items:
