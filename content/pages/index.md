@@ -22,7 +22,7 @@ sections:
     title: Power Your Student Experience
     titleFr: Impulsione sua vida de estudante
     subtitle: with the best sub-association on campus.
-    subtitleFr: avec la meilleure sous-association du campus.
+    subtitleFr: com a melhor subassociação do campus.
     actions:
       - type: Button
         label: Learn More
