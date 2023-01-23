@@ -125,7 +125,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/9.png
-          altText: altText of the image
+          altText: discord
           caption: Caption of the image
           width: 300
           height: 300
