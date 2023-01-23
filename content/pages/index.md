@@ -66,7 +66,7 @@ sections:
             textAlign: left
         featuredImage:
           type: ImageBlock
-          url: /images/9.png
+          url: /images/astronauts.svg
           altText: discord
           caption: discord
           width: 500
