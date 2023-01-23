@@ -115,7 +115,6 @@ sections:
     colors: colors-d
     elementId: ''
     title: Key value propositions
-    titleFr: À la une
     subtitle: ''
     subtitleFr: Section sous-titre
     items:
