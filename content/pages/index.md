@@ -160,7 +160,7 @@ sections:
             label: Learn More
             altText: Learn More
             url: /conteudo
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
