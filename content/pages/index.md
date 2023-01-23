@@ -49,7 +49,7 @@ sections:
           elementId: ''
       - type: FeaturedItem
         title: Get homework help
-        titleFr: Obtenez de l'aide pour vos devoirs
+        titleFr: Obtenha ajuda com sua lição de casa
         text: >
           Need to study with your friends in a quiet environment to prepare for
           your midterm? Our office is the perfect place for that.
