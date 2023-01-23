@@ -114,7 +114,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-b
     elementId: ''
-    title: Upcoming Events
+    title: grantors received
     titleFr: Concessores recebidas
     subtitle: ''
     subtitleFr: ''
