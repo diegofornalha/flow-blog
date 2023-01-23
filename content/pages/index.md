@@ -108,12 +108,6 @@ sections:
         styles:
           self:
             textAlign: left
-        featuredImage:
-          type: ImageBlock
-          url: /images/bulb.svg
-          altText: altText of the image
-          caption: Caption of the image
-          elementId: ''
         featuredIcon: bulb
         isIcon: true
       - type: FeaturedItem
