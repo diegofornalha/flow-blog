@@ -125,9 +125,9 @@ sections:
           questions and seek academic help from our execs during their office
           hours.
         textFr: >-
-          Notre bureau est un environnement d'étude calme. Les étudiants sont
-          invités à poser des questions et à chercher une aide académique auprès
-          de nos exécutifs pendant leurs heures de bureau.
+          Nosso escritório é um ambiente de estudo tranquilo. Os estudantes são
+          incentivados a fazer perguntas e buscar ajuda acadêmica de
+          de nossos executivos durante o expediente.
         actions: []
         styles:
           self:
