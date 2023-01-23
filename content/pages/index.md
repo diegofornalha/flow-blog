@@ -114,7 +114,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-b
     elementId: ''
-    title: Grants Received
+    title: Grants received
     titleFr: Concessores recebidas
     subtitle: ''
     subtitleFr: ''
