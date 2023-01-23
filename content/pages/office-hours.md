@@ -52,7 +52,7 @@ metaTags:
     content: website
   - type: MetaTag
     property: 'og:image:alt'
-    content: IEEE uOttawa Student Branch Logo
+    content: CoFlow Logo
   - type: MetaTag
     property: 'og:url'
     content: 'https://ieeeuottawa.ca/contact'
