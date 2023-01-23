@@ -84,12 +84,6 @@ sections:
         styles:
           self:
             textAlign: left
-        featuredImage:
-          type: ImageBlock
-          url: /images/circuit.svg
-          altText: Circuit illustration
-          caption: Caption of the image
-          elementId: ''
         featuredIcon: circuit
         isIcon: true
       - type: FeaturedItem
