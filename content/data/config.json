@@ -254,7 +254,7 @@
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "width": 300,
-            "height": 140,
+            "height": 130,
             "elementId": ""
         }
     },
