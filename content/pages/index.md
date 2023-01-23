@@ -94,7 +94,7 @@ sections:
         isIcon: true
     actions:
       - type: Button
-        label: Postagens Mais Recentes
+        label: Most Recent Posts
         altText: Postagens Mais Recentes
         url: /blog
         showIcon: false
