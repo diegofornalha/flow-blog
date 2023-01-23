@@ -124,7 +124,7 @@
                 "url": "https://flow.coflow.com.br",
                 "showIcon": true,
                 "icon": "chevronLeft",
-                "iconPosition": "left",
+                "iconPosition": "right",
                 "elementId": ""
             }
         ],
