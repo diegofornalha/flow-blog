@@ -123,7 +123,6 @@ sections:
         elementId: ''
         title: BootCamp
         titleFr: Reunião do gênio da informação
-        subtitle: '11/23/2022, 6PM - 8PM'
         subtitleFr: '23/11/2022, 18:00 - 20:00'
         text: >
           Location: SITE 4026 Drop by the IEEE office, located in STE 4026, and
