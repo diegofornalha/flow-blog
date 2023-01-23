@@ -202,7 +202,7 @@ sections:
           value: apple
         actions:
           - type: Button
-            label: Learn More
+            label: Lire plus
             altText: Learn More
             url: 'https://www.instagram.com/p/Ck6xk_Ou7m6/'
             showIcon: true
