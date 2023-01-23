@@ -158,7 +158,7 @@ sections:
         actions:
           - type: Button
             label: Learn More
-            altText: '>'
+            altText: Learn More
             url: /conteudo
             showIcon: false
             icon: arrowRight
