@@ -44,7 +44,7 @@
         "letterSpacing": "normal"
     },
     "main": "#dfd4ca",
-    "light": "#dfd4ca",
+    "light": "#ffffff",
     "onLight": "#383843",
     "dark": "#383843",
     "onDark": "#ffffff",
