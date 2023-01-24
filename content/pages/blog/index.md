@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: This is a page title
+title: BLOG
 titleFr: Titre de la page
 numOfPostsPerPage: 1
 postFeed:
