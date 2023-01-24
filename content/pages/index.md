@@ -25,12 +25,12 @@ sections:
     items: []
     actions:
       - type: Button
-        label: Voluntário
-        altText: Voluntário
-        url: 'https://discord.com/invite/hT8EpC5mUN'
-        showIcon: true
-        icon: arrowRightCircle
-        iconPosition: left
+        label: 'Quero Ser um Voluntário '
+        altText: 'Quero Ser um Voluntário '
+        url: /blog
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
         style: primary
         elementId: ''
     columns: 3
