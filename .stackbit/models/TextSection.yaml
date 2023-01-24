@@ -51,7 +51,7 @@ fields:
       inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
   - type: markdown
     name: textFr
-    label: Text [FR]
+    label: Text [PT]
     default: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
