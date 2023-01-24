@@ -54,6 +54,12 @@
             },
             {
                 "type": "DropdownLink",
+                "label": "Advocates",
+                "altText": "",
+                "dropdownLinks": []
+            },
+            {
+                "type": "DropdownLink",
                 "label": "More",
                 "altText": "",
                 "dropdownLinks": []
