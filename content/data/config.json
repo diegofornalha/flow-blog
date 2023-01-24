@@ -154,7 +154,6 @@
         "variant": "variant-b",
         "colors": "colors-c",
         "contacts": {
-            "address": "800 King Edward Avenue, STE 4026",
             "addressAltText": "Our address"
         },
         "copyrightText": "CoFlow",
