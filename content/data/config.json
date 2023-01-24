@@ -26,8 +26,8 @@
                     },
                     {
                         "type": "Link",
-                        "label": "WIE",
-                        "altText": "Blog",
+                        "label": "BLOG",
+                        "altText": "WIE",
                         "url": "https://celebratewie.ca/",
                         "showIcon": true,
                         "icon": "arrowRight",
