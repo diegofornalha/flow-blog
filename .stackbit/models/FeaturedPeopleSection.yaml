@@ -42,8 +42,8 @@ fields:
         - Button
         - Link
   - type: list
-    name: advocates
-    label: Advocates
+    name: execs
+    label: execs
     items:
       type: model
       models: [Exec]
