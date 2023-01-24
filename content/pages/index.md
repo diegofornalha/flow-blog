@@ -21,9 +21,9 @@ sections:
     backgroundSize: full
     title: Acelere cada etapa da sua carreira em programação web3
     titleFr: Acelere cada etapa da sua carreira em programação web3
-    text: >-
-      O mapa completo para você impulsionar sua evolução e acessar as melhores
-      oportunidades.
+    text: >
+      The complete map for you to boost your evolution and access the best
+      opportunities.
     textFr: >+
       O mapa completo para você impulsionar sua evolução e acessar as melhores
       oportunidades.
