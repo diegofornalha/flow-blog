@@ -19,7 +19,7 @@ sections:
     colors: colors-b
     elementId: ''
     title: Meet our Blog
-    titleFr: Conheça nosso Blog
+    titleFr: Seja um Defensor!
     subtitle: All about Flow Blockchain
     subtitleFr: Tudo sobre Flow Blockchain
     items: []
