@@ -35,6 +35,7 @@ sections:
         icon: arrowRight
         url: 'https://discord.com/invite/hT8EpC5mUN'
         style: primary
+        altText: ENTRAR NO DISCORD
     backgroundImage: null
     styles:
       self:
