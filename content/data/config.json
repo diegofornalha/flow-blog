@@ -106,7 +106,7 @@
     },
     "footer": {
         "variant": "variant-b",
-        "colors": "colors-b",
+        "colors": "colors-d",
         "contacts": {},
         "copyrightText": "CoFlow",
         "primaryLinks": [
