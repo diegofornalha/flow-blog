@@ -38,7 +38,7 @@
             },
             {
                 "type": "DropdownLink",
-                "label": "Execs",
+                "label": "Advocates",
                 "dropdownLinks": [
                     {
                         "type": "Link",
