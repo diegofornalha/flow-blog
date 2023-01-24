@@ -10,7 +10,7 @@ export const translatedLinks = {
     "About": "Sobre",
     "Who We Are": "Quem somos",
     "McNaughton Centre": "Centro McNaughton",
-    "Shop": "Loja",
+    "Login": "Loja",
     "Advocates": "Defensores",
     "Events": "Eventos",
     "More": "Mais",
