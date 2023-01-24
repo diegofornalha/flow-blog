@@ -37,7 +37,7 @@ fields:
     default: The section subtitle
   - type: string
     name: subtitleFr
-    label: Subtitle [FR]
+    label: Subtitle [PT]
     default: Section sous-titre
   - type: markdown
     name: text
