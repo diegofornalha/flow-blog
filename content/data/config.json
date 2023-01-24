@@ -97,16 +97,6 @@
                 "label": "Events",
                 "url": "/events",
                 "altText": "Events"
-            },
-            {
-                "type": "Link",
-                "label": "Documents",
-                "altText": "Documents",
-                "url": "/documents",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "secondaryLinks": [
