@@ -7,7 +7,7 @@ socialImage: null
 metaTags: []
 title: This is a page title
 titleFr: Titre de la page
-numOfPostsPerPage: 10
+numOfPostsPerPage: 1
 postFeed:
   title: null
   subtitle: null
