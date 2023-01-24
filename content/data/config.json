@@ -1,5 +1,6 @@
 {
     "type": "Config",
+    "favicon": "/images/ieee-diamond.png",
     "header": {
         "headerVariant": "variant-b",
         "isSticky": true,
@@ -25,9 +26,15 @@
                     },
                     {
                         "type": "Link",
-                        "label": "BLOG",
-                        "altText": "BLOG",
-                        "url": "https://flow.coflow.com.br/blog",
+                        "label": "Office Hours",
+                        "url": "/office-hours",
+                        "altText": "Office Hours"
+                    },
+                    {
+                        "type": "Link",
+                        "label": "WIE",
+                        "altText": "WIE",
+                        "url": "https://celebratewie.ca/",
                         "showIcon": true,
                         "icon": "arrowRight",
                         "iconPosition": "right",
@@ -37,11 +44,11 @@
             },
             {
                 "type": "DropdownLink",
-                "label": "Advocates",
+                "label": "Execs",
                 "dropdownLinks": [
                     {
                         "type": "Link",
-                        "label": "2023",
+                        "label": "2022-2023",
                         "altText": "Link to 2022-2023 team's page",
                         "url": "/execs-2022-2023",
                         "showIcon": false,
@@ -51,9 +58,39 @@
                     },
                     {
                         "type": "Link",
-                        "label": "2022",
+                        "label": "2021-2022",
                         "altText": "Link to 2021-2022 team's page",
                         "url": "/execs-2021-2022",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "type": "Link",
+                        "label": "2020-2021",
+                        "altText": "Link to 2020-2021 team's page",
+                        "url": "/execs-2020-2021",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "type": "Link",
+                        "label": "2019-2020",
+                        "altText": "Link to 2019-2020 team's page",
+                        "url": "/execs-2019-2020",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "type": "Link",
+                        "label": "2018-2019",
+                        "altText": "Link to 2018-2019 team's page",
+                        "url": "/execs-2018-2019",
                         "showIcon": false,
                         "icon": "arrowRight",
                         "iconPosition": "right",
@@ -66,6 +103,16 @@
                 "label": "Events",
                 "url": "/events",
                 "altText": "Events"
+            },
+            {
+                "type": "Link",
+                "label": "Documents",
+                "altText": "Documents",
+                "url": "/documents",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "secondaryLinks": [
@@ -105,7 +152,7 @@
     },
     "footer": {
         "variant": "variant-b",
-        "colors": "colors-b",
+        "colors": "colors-c",
         "contacts": {},
         "copyrightText": "CoFlow",
         "primaryLinks": [
@@ -137,7 +184,7 @@
                 "type": "Social",
                 "label": "Email",
                 "altText": "",
-                "url": "mailto:diegofornalha@gmail.com",
+                "url": "mailto:communications@ieeeuottawa.ca",
                 "icon": "mail",
                 "style": "link",
                 "elementId": ""
@@ -146,17 +193,17 @@
                 "type": "Social",
                 "altText": "Instagram",
                 "label": "Instagram",
-                "url": "http://www.instagram.com/diegofornalha",
+                "url": "http://www.instagram.com/ieeeuottawa",
                 "icon": "instagram"
             },
             {
                 "type": "Social",
                 "label": "Youtube",
-                "altText": "Youtube",
+                "altText": "IEEE uOttawa Youtube",
                 "icon": "youtube",
                 "style": "link",
                 "elementId": "",
-                "url": "https://www.youtube.com/diegofornalha"
+                "url": "https://www.youtube.com/channel/UCSv1Vna97rKa8w2ktRG8wRw"
             },
             {
                 "type": "Social",
@@ -207,5 +254,6 @@
             "property": "twitter:image:alt",
             "content": "CoFlow Hero Image"
         }
-    ]
+    ],
+    "defaultSocialImage": "/images/LOGO_HALLOWEEN.svg"
 }
