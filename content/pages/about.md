@@ -116,6 +116,15 @@ sections:
         styles:
           self:
             textAlign: left
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: altText of the image
+          caption: Caption of the image
+          width: 300
+          height: 300
+          elementId: ''
       - type: FeaturedItem
         title: Quiet Study Place
         titleFr: Lieu d'étude calme
