@@ -96,7 +96,7 @@ fields:
         - sectionComponent
   - type: markdown
     name: markdown_content_fr
-    label: Content [FR]
+    label: Content [PT]
     default: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.'
   - type: string
     name: metaDescription
