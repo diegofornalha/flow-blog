@@ -16,7 +16,7 @@ fields:
     default: Posts
   - type: string
     name: titleFr
-    label: Title [FR]
+    label: Title [PT]
     default: Posts
   - type: string
     name: subtitle
