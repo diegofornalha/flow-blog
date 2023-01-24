@@ -29,7 +29,7 @@ fields:
     default: The Section Title
   - type: string
     name: titleFr
-    label: Title [FR]
+    label: Title [PT]
     default: Section titre
   - type: string
     name: subtitle
