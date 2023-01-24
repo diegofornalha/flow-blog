@@ -30,4 +30,5 @@ export const translatedLinks = {
     "Opportunities": "Oportunidades",
     "Blogs": "Blogs",
     "Email Us": "Envie-nos um e-mail",
+        "Who We Are": "Quem somos",
 }
