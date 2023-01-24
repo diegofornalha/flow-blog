@@ -18,6 +18,7 @@ postFeed:
   actions: []
   titleFr: discod
   subtitleFr: discod
+  readMoreLinkLabel: discod
 topSections: []
 bottomSections: []
 styles:
