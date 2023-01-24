@@ -62,7 +62,7 @@ sections:
     text: |
       Embaixador Flow
     textFr: |
-      Visite nossa galeria para ver fotos de eventos que já realizamos.
+      Embaixador Flow
     actions:
       - type: Button
         label: Twitter
