@@ -1,9 +1,0 @@
-{
-    "type": "Person",
-    "firstName": "Erik",
-    "lastName": "Cassidy",
-    "image": {
-        "url": "/images/team/erik-cassidy.jpg",
-        "altText": "Erik Cassidy photo"
-    } 
-}
