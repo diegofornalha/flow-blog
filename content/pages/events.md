@@ -682,29 +682,6 @@ sections:
           altText: Cookies n' Cram ELG2138 Poster
           caption: Cookies n' Cram ELG2138 Poster
           elementId: ''
-      - type: FeaturedItem
-        title: Cookies n' Cram - CEG2136
-        titleFr: Cookies n' Cram - CEG2136
-        subtitle: '11/28/2021, 1PM - 3PM'
-        subtitleFr: '28/11/2021 - 13:00 - 15:00'
-        actions:
-          - type: Button
-            label: Learn More
-            showIcon: true
-            icon: arrowRight
-            url: 'https://www.facebook.com/events/432419784904904/'
-            style: secondary
-        styles:
-          self:
-            textAlign: left
-        featuredImage:
-          type: ImageBlock
-          width: 1080
-          height: 1080
-          url: /images/events/2021-2022/c&c-ceg2136.jpeg
-          altText: Cookies n' Cram CEG2136 Poster
-          caption: Cookies n' Cram CEG2136 Poster
-          elementId: ''
     actions:
       - type: Button
         label: More
