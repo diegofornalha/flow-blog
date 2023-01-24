@@ -25,18 +25,6 @@ sections:
     textFr: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum.
-    form:
-      type: FormBlock
-      elementId: contact-form
-      action: /.netlify/functions/submission_created
-      destination: ''
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          placeholder: Your name
-          isRequired: 'true'
-          width: 1/2
     media:
       type: ImageBlock
       url: /images/hero-2.png
