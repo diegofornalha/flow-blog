@@ -14,7 +14,7 @@ postFeed:
   showDate: true
   showAuthor: true
   variant: variant-a
-  colors: colors-a
+  colors: colors-b
   actions: []
 topSections: []
 bottomSections: []
