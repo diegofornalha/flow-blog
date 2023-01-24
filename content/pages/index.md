@@ -27,7 +27,7 @@ sections:
       - type: Button
         label: Quero Ser um Voluntário
         altText: Quero Ser um Voluntário
-        url: /blog
+        url: 'https://discord.com/invite/hT8EpC5mUN'
         showIcon: false
         icon: arrowRight
         iconPosition: right
