@@ -17,7 +17,7 @@ fields:
     default: 'Sign me up to receive updates'
   - type: string
     name: labelFr
-    label: Label [FR]
+    label: Label [PT]
     default: 'Sign me up to receive updates'
   - type: boolean
     name: isRequired
