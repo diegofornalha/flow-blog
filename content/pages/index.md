@@ -24,6 +24,15 @@ sections:
     subtitleFr: Benefícios exclusivos para voluntários.
     items: []
     actions:
+      - type: Button
+        label: Learn More
+        altText: ''
+        url: 'https://discord.com/invite/hT8EpC5mUN'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
       - type: Link
         label: Voluntário
         altText: ''
