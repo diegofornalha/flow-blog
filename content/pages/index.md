@@ -15,6 +15,43 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: RecentPostsSection
+    colors: colors-d
+    elementId: ''
+    titleFr: Posts
+    subtitleFr: Blog posts
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showReadMoreLink: true
+    readMoreLinkLabel: Join adventure
+    variant: variant-c
+    actions:
+      - type: Link
+        label: See all adventures
+        altText: See all adventures
+        url: /blog
+        showIcon: true
+        icon: arrowRight
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    title: Seasonal adventure
+    subtitle: ''
+    recentCount: 5
   - type: FeaturedItemsSection
     colors: colors-b
     elementId: ''
