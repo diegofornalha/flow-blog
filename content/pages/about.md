@@ -94,7 +94,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: WIE Affinity Group
-    titleFr: Groupe d'affinité WIE
+    titleFr: NFT de Membro
     subtitle: ''
     subtitleFr: ''
     text: >
