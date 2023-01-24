@@ -26,6 +26,7 @@ sections:
       url: /images/groups-72302c1d.svg
       altText: Contact form image
       width: 200
+      height: 200
     styles:
       self:
         height: auto
