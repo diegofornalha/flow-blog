@@ -1,9 +1,0 @@
-{
-    "type": "Person",
-    "firstName": "Juan",
-    "lastName": "Hiedra Primera",
-    "image": {
-        "url": "/images/team/juan-hiedra-primera.jpg",
-        "altText": "Juan Hiedra Primera photo"
-    }   
-}
