@@ -25,7 +25,7 @@ sections:
     items: []
     actions:
       - type: Button
-        label: Most Recent Posts
+        label: 'Quero Ser um Voluntario '
         altText: Postagens Mais Recentes
         url: /blog
         showIcon: false
