@@ -26,7 +26,7 @@ sections:
     actions:
       - type: Button
         label: Voluntário
-        altText: ''
+        altText: Voluntário
         url: 'https://discord.com/invite/hT8EpC5mUN'
         showIcon: false
         icon: arrowRight
