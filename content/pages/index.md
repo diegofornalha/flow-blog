@@ -147,9 +147,5 @@ metaTags:
     property: 'twitter:site'
     content: '@ieeeuottawa'
 metaTitle: Powering Your Student Experience
-metaDescription: >-
-  The CoFlow is the official student branch for the University of Ottawa and the
-  official Sub-Association for ELG/CEG/SEG under the Engineering Students
-  Society (ESS).
 socialImage: /images/LOGO_HALLOWEEN.svg
 ---
