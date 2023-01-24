@@ -218,47 +218,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        elementId: ''
-        title: Networking with Ciena
-        titleFr: Networking avec Ciena
-        subtitle: '10/20/2022, 6PM - 8PM'
-        subtitleFr: '20/10/2022, 18:00 - 20:00'
-        text: >
-          Location: STEM 117
-
-
-          It’s time for some networking! Join CSSA, ESS, SESA, and IEEE for one
-          of Ciena’s biggest networking event!
-        textFr: >
-          Lieu: STEM 117
-
-
-
-
-          C'est le moment de faire du réseautage ! Rejoignez l’AEI, l'AEG, la
-          SESA et l'IEEE pour l'un des plus grands événements de réseautage de
-          Ciena!
-        isIcon: false
-        featuredImage:
-          type: ImageBlock
-          url: /images/ciena-event.jpeg
-          altText: Ciena Networking Event Poster
-          caption: Ciena Networking Event Poster
-        featuredIcon: apple
-        actions:
-          - type: Button
-            label: Learn More
-            altText: ''
-            url: 'https://www.instagram.com/p/CjY1gA3Jwec/'
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        styles:
-          self:
-            textAlign: left
     actions:
       - type: Button
         label: More
