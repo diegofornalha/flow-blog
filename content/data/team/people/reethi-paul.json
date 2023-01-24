@@ -1,9 +1,0 @@
-{
-    "type": "Person",
-    "firstName": "Reethi",
-    "lastName": "Paul",
-    "image": {
-        "url": "/images/team/reethi-paul.jpg",
-        "altText": "Reethi Paul photo"
-    } 
-}
