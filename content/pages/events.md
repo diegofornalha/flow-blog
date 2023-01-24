@@ -705,29 +705,6 @@ sections:
           altText: Cookies n' Cram CEG2136 Poster
           caption: Cookies n' Cram CEG2136 Poster
           elementId: ''
-      - type: FeaturedItem
-        title: WIE Tech Panel
-        titleFr: Panel tech WIE
-        subtitle: '03/25/2021, 7PM - 9:30PM'
-        subtitleFr: '25/03/2021, 19:00 - 21:30'
-        actions:
-          - type: Button
-            label: Learn More
-            showIcon: true
-            icon: arrowRight
-            url: 'https://www.facebook.com/events/620408012477323/'
-            style: secondary
-        styles:
-          self:
-            textAlign: left
-        featuredImage:
-          type: ImageBlock
-          width: 1080
-          height: 1080
-          url: /images/events/2021-2022/wie-tech-panel.jpeg
-          altText: WIE Tech Panel Poster
-          caption: WIE Tech Panel Poster
-          elementId: ''
     actions:
       - type: Button
         label: More
