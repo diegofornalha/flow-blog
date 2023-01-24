@@ -682,6 +682,31 @@ sections:
           altText: Cookies n' Cram ELG2138 Poster
           caption: Cookies n' Cram ELG2138 Poster
           elementId: ''
+      - type: FeaturedItem
+        elementId: ''
+        title: Item Title
+        titleFr: Titre de l'article
+        subtitle: ''
+        subtitleFr: ''
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        textFr: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        isIcon: false
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+        featuredIcon: apple
+        actions: []
+        styles:
+          self:
+            textAlign: left
     actions:
       - type: Button
         label: More
