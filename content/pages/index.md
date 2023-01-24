@@ -59,7 +59,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Check out our gallery
+    title: Follow me
     subtitle: ''
     text: |
       Embaixador Flow
