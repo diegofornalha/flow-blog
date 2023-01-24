@@ -61,13 +61,7 @@ sections:
     backgroundSize: full
     title: Follow me
     subtitle: ''
-    text: |+
-      ```
-      Flow Ambassador
-
-
-      ```
-
+    text: Flow Ambassador
     textFr: |
       Embaixador Flow
     actions:
