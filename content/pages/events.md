@@ -519,29 +519,6 @@ sections:
           altText: Battle Royale Poster
           caption: Battle Royale Poster
           elementId: ''
-      - type: FeaturedItem
-        title: Movie Night
-        titleFr: Soirée Ciné
-        subtitle: '02/26/2022, 8PM'
-        subtitleFr: '26/02/2022, 20:00'
-        actions:
-          - type: Button
-            label: Learn More
-            showIcon: true
-            icon: arrowRight
-            url: 'https://www.instagram.com/p/CaXjzV6Oskj/'
-            style: secondary
-        styles:
-          self:
-            textAlign: left
-        featuredImage:
-          type: ImageBlock
-          width: 1080
-          height: 1080
-          url: /images/events/2021-2022/movie-night.jpeg
-          altText: Movie Night Poster
-          caption: Movie Night Poster
-          elementId: ''
     actions:
       - type: Button
         label: More
