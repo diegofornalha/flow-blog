@@ -588,29 +588,6 @@ sections:
           altText: Hackathon Poster
           caption: Hackathon Poster
           elementId: ''
-      - type: FeaturedItem
-        title: Cookies n' Cram - ELG2138
-        titleFr: Cookies n' Cram - ELG2138
-        subtitle: '11/29/2021, 5PM - 7PM'
-        subtitleFr: '29/11/2021 - 17:00 - 19:00'
-        actions:
-          - type: Button
-            label: Learn More
-            showIcon: true
-            icon: arrowRight
-            url: 'https://www.facebook.com/events/402082948239745/'
-            style: secondary
-        styles:
-          self:
-            textAlign: left
-        featuredImage:
-          type: ImageBlock
-          width: 1080
-          height: 1080
-          url: /images/events/2021-2022/c&c-elg2138.jpeg
-          altText: Cookies n' Cram ELG2138 Poster
-          caption: Cookies n' Cram ELG2138 Poster
-          elementId: ''
     actions:
       - type: Button
         label: More
