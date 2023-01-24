@@ -25,9 +25,10 @@ sections:
       #### ***O mapa completo para você impulsionar sua evolução e acessar as
       melhores oportunidades.***
 
-    textFr: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    textFr: >+
+      O mapa completo para você impulsionar sua evolução e acessar as melhores
+      oportunidades.
+
     actions:
       - type: Button
         label: ENTRAR NO DISCORD
