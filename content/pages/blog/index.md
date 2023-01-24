@@ -18,7 +18,7 @@ postFeed:
   actions: []
 topSections:
   - type: FeaturedPostsSection
-    colors: colors-e
+    colors: colors-b
     elementId: ''
     titleFr: Posts
     subtitleFr: Blog posts
