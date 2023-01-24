@@ -23,7 +23,7 @@ sections:
     titleFr: Allons-y !
     text: >+
       ### O mapa completo para você impulsionar sua evolução e acessar as
-      melhores oportunidades da sua carreira como dev.
+      melhores oportunidades da sua carreira.
 
     textFr: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
