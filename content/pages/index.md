@@ -22,8 +22,8 @@ sections:
     title: Acelere cada etapa da sua carreira em programação web3
     titleFr: Allons-y !
     text: >+
-      ### O mapa completo para você impulsionar sua evolução e acessar as
-      melhores oportunidades.
+      #### ***O mapa completo para você impulsionar sua evolução e acessar as
+      melhores oportunidades.***
 
     textFr: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
