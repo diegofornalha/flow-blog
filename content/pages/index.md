@@ -136,7 +136,7 @@ sections:
     titleFr: WhatsApp
     actions:
       - type: Button
-        label: Try it now
+        label: Entre em Contato
         showIcon: true
         icon: arrowRight
         url: /
