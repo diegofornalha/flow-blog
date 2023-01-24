@@ -27,7 +27,7 @@ fields:
     default: Your name
   - type: string
     name: placeholderFr
-    label: Placeholder text [FR]
+    label: Placeholder text [PT]
     default: Nom
   - type: boolean
     name: isRequired
