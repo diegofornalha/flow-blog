@@ -15,6 +15,44 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: CtaSection
+    colors: colors-c
+    elementId: ''
+    backgroundSize: full
+    title: Let's do this
+    titleFr: Allons-y !
+    text: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
+    textFr: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
+    actions:
+      - type: Button
+        label: Try it now
+        showIcon: true
+        icon: arrowRight
+        url: /
+        style: primary
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: center
+      text:
+        textAlign: center
+      actions:
+        justifyContent: center
   - type: FeaturedItemsSection
     colors: colors-b
     elementId: ''
