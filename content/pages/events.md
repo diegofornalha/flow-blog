@@ -43,7 +43,7 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 20
   - type: FeaturedItemsSection
-    colors: colors-c
+    colors: colors-b
     elementId: ''
     title: Upcoming Events
     subtitleFr: Consultez nos événements à venir
