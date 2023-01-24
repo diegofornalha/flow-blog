@@ -69,7 +69,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: 'https://flow.coflow.com.br'
+        url: 'https://twitter.com/diegofornalha'
     backgroundImage:
       type: ImageBlock
       url: /images/gridgallery.png
