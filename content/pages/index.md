@@ -58,7 +58,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Check out our gallery
-    titleFr: Visite nossa galeria de fotos
+    titleFr: Nosso Instagran
     subtitle: ''
     text: |
       Visit our gallery to see photos of events we have hosted in the past.
