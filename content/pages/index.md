@@ -21,9 +21,10 @@ sections:
     backgroundSize: full
     title: Acelere cada etapa da sua carreira em programação
     titleFr: Allons-y !
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >+
+      ## O mapa completo para você impulsionar sua evolução e acessar as
+      melhores oportunidades da sua carreira como dev.&#xA;
+
     textFr: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
