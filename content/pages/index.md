@@ -132,7 +132,7 @@ sections:
     colors: colors-b
     elementId: ''
     backgroundSize: full
-    title: Let's do this
+    title: WhatsApp
     titleFr: Allons-y !
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
