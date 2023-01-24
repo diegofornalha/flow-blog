@@ -21,9 +21,6 @@ sections:
     backgroundSize: full
     title: Meet our Blog
     titleFr: Meet our Blog
-    textFr: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum.
     media:
       type: ImageBlock
       url: /images/groups-72302c1d.svg
