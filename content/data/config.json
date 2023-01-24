@@ -32,7 +32,7 @@
                     },
                     {
                         "type": "Link",
-                        "label": "WIE",
+                        "label": "Blog",
                         "altText": "WIE",
                         "url": "https://flow.coflow.com.br/blog",
                         "showIcon": true,
