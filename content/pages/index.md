@@ -94,7 +94,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    titleFr: Nos siga no Twitter
+    titleFr: Me siga no twitter
   - type: CtaSection
     colors: colors-d
     elementId: ''
