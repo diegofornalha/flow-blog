@@ -9,9 +9,8 @@ sections:
     title: About
     titleFr: À propos
     text: >
-      The CoFlow is the official student branch for the
-      University of Ottawa and the official Sub-Association for ELG/CEG/SEG
-      under the ESS.
+      The CoFlow is the official student branch for the University of Ottawa and
+      the official Sub-Association for ELG/CEG/SEG under the ESS.
     textFr: >
       La branche étudiante de l'IEEE uOttawa est la branche étudiante officielle
       de l'Université d'Ottawa et la sous-association officielle pour les
@@ -110,9 +109,9 @@ sections:
           students to ease them into their new university life.
         textFr: >-
           Liderado por nosso capítulo Women In Engineering (WIE), Big Eng Little
-          Eng é um programa de orientação que une alunos da primeira série
-          ano com alunos de nível superior para ajudá-los
-          integrar na sua nova vida universitária.
+          Eng é um programa de orientação que une alunos da primeira série ano
+          com alunos de nível superior para ajudá-los integrar na sua nova vida
+          universitária.
         actions: []
         styles:
           self:
@@ -126,8 +125,8 @@ sections:
           hours.
         textFr: >-
           Nosso escritório é um ambiente de estudo tranquilo. Os estudantes são
-          incentivados a fazer perguntas e buscar ajuda acadêmica de
-          de nossos executivos durante o expediente.
+          incentivados a fazer perguntas e buscar ajuda acadêmica de de nossos
+          executivos durante o expediente.
         actions: []
         styles:
           self:
@@ -223,47 +222,6 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-  - type: CtaSection
-    colors: colors-d
-    elementId: get-involved
-    backgroundSize: full
-    title: Want to get involved with the IEEE?
-    titleFr: Voulez-vous vous impliquer avec IEEE ?
-    text: >
-      Fill out this form and an executive will email you when there are
-      opportunities for volunteering!
-    textFr: >
-      Remplissez ce formulaire et un responsable vous enverra un courriel
-      lorsqu'il y aura des des opportunités de bénévolat !
-    actions:
-      - type: Button
-        label: Form
-        showIcon: true
-        icon: arrowRight
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSfIdHz-ORmtsCgjEp2WpOV5ssXaC60nNpFzAY_qeRH4f7uX1w/viewform
-        style: primary
-        altText: Link to volunteer signup google form
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-        margin:
-          - mt-0
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 addTitleSuffix: true
 metaTitle: About
 metaDescription: >-
