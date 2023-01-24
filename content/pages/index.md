@@ -101,10 +101,6 @@ sections:
     backgroundSize: full
     title: WhatsApp
     titleFr: WhatsApp
-    textFr: >
-      Vous avez une question ? Des suggestions d'événements ? Des commentaires ?
-      Nous voulons les entendre ! Envoyez-nous un message et nous vous
-      répondrons dès que possible.
     actions:
       - type: Button
         label: Contact
