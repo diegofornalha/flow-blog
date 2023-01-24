@@ -42,7 +42,7 @@
                 "dropdownLinks": [
                     {
                         "type": "Link",
-                        "label": "2022-2023",
+                        "label": "2023",
                         "altText": "Link to 2022-2023 team's page",
                         "url": "/execs-2022-2023",
                         "showIcon": false,
