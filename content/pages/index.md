@@ -27,7 +27,7 @@ sections:
       Aenean vel aliquet elit, at blandit ipsum.
     media:
       type: ImageBlock
-      url: /images/astronauts.svg
+      url: /images/groups-72302c1d.svg
       altText: Contact form image
     styles:
       self:
