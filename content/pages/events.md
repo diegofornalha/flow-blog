@@ -450,29 +450,6 @@ sections:
           altText: Pomodoro Study Session Poster
           caption: Pomodoro Study Session Poster
           elementId: ''
-      - type: FeaturedItem
-        title: 13th Wine and Cheese
-        titleFr: 13ème édition du Wine and Cheese
-        subtitle: '04/01/2022, 6PM - 10PM'
-        subtitleFr: '01/04/2022, 18:00 - 22:00'
-        actions:
-          - type: Button
-            label: Learn More
-            showIcon: true
-            icon: arrowRight
-            url: 'https://www.facebook.com/events/459635112616437/'
-            style: secondary
-        styles:
-          self:
-            textAlign: left
-        featuredImage:
-          type: ImageBlock
-          width: 1080
-          height: 1080
-          url: /images/events/2021-2022/w&c.jpeg
-          altText: Hackathon Poster
-          caption: Hackathon Poster
-          elementId: ''
     actions:
       - type: Button
         label: More
