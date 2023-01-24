@@ -146,5 +146,4 @@ metaTags:
   - type: MetaTag
     property: 'twitter:site'
     content: '@ieeeuottawa'
-metaTitle: Powering Your Student Experience
 ---
