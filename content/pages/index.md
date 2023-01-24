@@ -65,7 +65,7 @@ sections:
       Visite nossa galeria para ver fotos de eventos que já realizamos.
     actions:
       - type: Button
-        label: Twittwe
+        label: Twitter
         showIcon: true
         icon: arrowRight
         style: primary
