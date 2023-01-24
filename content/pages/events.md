@@ -496,29 +496,6 @@ sections:
           altText: Hackathon Poster
           caption: Hackathon Poster
           elementId: ''
-      - type: FeaturedItem
-        title: 14th Battle Royale
-        titleFr: 14è édition de Battle Royale
-        subtitle: 03/04/2022 - 03/06/2022
-        subtitleFr: 04/03/2022 - 06/03/2022
-        actions:
-          - type: Button
-            label: Learn More
-            showIcon: true
-            icon: arrowRight
-            url: 'https://www.instagram.com/p/CZiJ40YulZT/'
-            style: secondary
-        styles:
-          self:
-            textAlign: left
-        featuredImage:
-          type: ImageBlock
-          width: 1080
-          height: 1080
-          url: /images/events/2021-2022/battle-royale.jpeg
-          altText: Battle Royale Poster
-          caption: Battle Royale Poster
-          elementId: ''
     actions:
       - type: Button
         label: More
