@@ -103,7 +103,7 @@ sections:
             textAlign: left
         featuredImage:
           type: ImageBlock
-          url: /images/2.png
+          url: /images/groups.svg
           altText: altText of the image
           caption: Caption of the image
           width: 500
