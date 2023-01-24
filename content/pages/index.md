@@ -33,13 +33,6 @@ sections:
         iconPosition: left
         style: primary
         elementId: ''
-      - type: Link
-        altText: ''
-        url: 'https://discord.com/invite/hT8EpC5mUN'
-        showIcon: true
-        icon: send
-        iconPosition: left
-        elementId: ''
     columns: 3
     spacingX: 32
     spacingY: 32
