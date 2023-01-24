@@ -8,7 +8,7 @@ metaTags: []
 title: advocates
 sections:
   - type: TextSection
-    colors: colors-d
+    colors: colors-b
     variant: variant-a
     title: This in an empty page
     titleFr: Ceci est une page vide
