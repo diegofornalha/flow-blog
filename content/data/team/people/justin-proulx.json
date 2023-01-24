@@ -1,9 +1,0 @@
-{
-    "type": "Person",
-    "firstName": "Justin",
-    "lastName": "Proulx",
-        "image": {
-        "url": "/images/team/justin-proulx.jpg",
-        "altText": "Justin Proulx photo"
-    }   
-}
