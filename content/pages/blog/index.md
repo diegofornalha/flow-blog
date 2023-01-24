@@ -48,7 +48,6 @@ topSections:
     title: Seasonal adventure
     subtitle: ''
     posts:
-      - content/pages/blog/post-two.md
       - content/pages/blog/advocates.md
 bottomSections: []
 styles:
