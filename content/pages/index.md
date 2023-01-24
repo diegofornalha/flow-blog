@@ -25,7 +25,6 @@ sections:
       type: ImageBlock
       url: /images/1.png
       altText: Contact form image
-      width: 200
       height: 200
     styles:
       self:
