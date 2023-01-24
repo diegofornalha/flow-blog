@@ -55,44 +55,6 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-  - type: FeaturedItemsSection
-    colors: colors-b
-    elementId: ''
-    title: Meet our Blog
-    titleFr: Seja um Defensor!
-    subtitle: All about Flow Blockchain
-    subtitleFr: Benefícios exclusivos para voluntários.
-    items: []
-    actions:
-      - type: Button
-        label: Voluntário
-        altText: Voluntário
-        url: 'https://discord.com/invite/hT8EpC5mUN'
-        showIcon: true
-        icon: arrowRightCircle
-        iconPosition: left
-        style: primary
-        elementId: ''
-    columns: 3
-    spacingX: 32
-    spacingY: 32
-    enableHover: false
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: FeatureHighlightSection
     colors: colors-d
     elementId: ''
