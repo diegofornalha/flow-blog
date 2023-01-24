@@ -180,12 +180,6 @@
             },
             {
                 "type": "Link",
-                "label": "Office Hours",
-                "url": "/office-hours",
-                "altText": "Office Hours Link"
-            },
-            {
-                "type": "Link",
                 "label": "IEEE.org",
                 "altText": "",
                 "url": "https://www.ieee.org//",
