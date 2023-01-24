@@ -83,7 +83,7 @@ sections:
         justifyContent: flex-start
     media:
       type: ImageBlock
-      url: /images/IEEE uO.png
+      url: /images/target.svg
       altText: altText of the image
       caption: Caption of the image
       width: 1400
