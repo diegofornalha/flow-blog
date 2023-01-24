@@ -82,7 +82,7 @@ sections:
           url: /images/certificate-medal.svg
           altText: Cursos
           caption: Cursos
-          width: 500
+          width: 600
           height: 500
           elementId: ''
       - type: FeaturedItem
