@@ -29,6 +29,5 @@ export const translatedLinks = {
     "Submit form": "Enviar formulário",
     "Opportunities": "Oportunidades",
     "Blogs": "Blogs",
-    "Office Hours": "Horário de expediente",
     "Email Us": "Envie-nos um e-mail",
 }
