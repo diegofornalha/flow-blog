@@ -25,6 +25,7 @@ sections:
       type: ImageBlock
       url: /images/groups-72302c1d.svg
       altText: Contact form image
+      width: 200
     styles:
       self:
         height: auto
