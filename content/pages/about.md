@@ -97,11 +97,6 @@ sections:
     titleFr: NFT de Membro
     subtitle: ''
     subtitleFr: ''
-    text: >
-      The mission of the IEEE uOttawa Women In Engineering is to inspire,
-      engage, encourage, and empower women to pursue the engineering field. They
-      are responsible for organizing IEEE Wine & Cheese, one of our student
-      branch's largest events.
     actions:
       - type: Button
         label: Learn More
