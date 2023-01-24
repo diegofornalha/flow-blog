@@ -37,12 +37,6 @@ sections:
           placeholder: Your name
           isRequired: 'true'
           width: 1/2
-        - type: EmailFormControl
-          name: email
-          label: Email
-          placeholder: Your email
-          isRequired: 'true'
-          width: 1/2
     media:
       type: ImageBlock
       url: /images/hero-2.png
