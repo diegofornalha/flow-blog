@@ -79,7 +79,7 @@ sections:
             textAlign: left
         featuredImage:
           type: ImageBlock
-          url: /images/browser-fa90e507.svg
+          url: /images/certificate-medal.svg
           altText: Cursos
           caption: Cursos
           width: 500
