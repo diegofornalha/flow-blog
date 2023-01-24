@@ -103,7 +103,7 @@ sections:
     titleFr: WhatsApp
     actions:
       - type: Button
-        label: Contact
+        label: Entre em Contato
         showIcon: true
         icon: arrowRight
         url: 'mailto:communications@ieeeuottawa.ca'
