@@ -1,9 +1,0 @@
-{
-    "type": "Person",
-    "firstName": "Alois",
-    "lastName": "Clerc",
-        "image": {
-        "url": "/images/team/alois-clerc.jpg",
-        "altText": "Alois Clerc photo"
-    }    
-}
