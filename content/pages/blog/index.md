@@ -16,6 +16,7 @@ postFeed:
   variant: variant-a
   colors: colors-a
   actions: []
+  titleFr: discod
 topSections: []
 bottomSections: []
 styles:
