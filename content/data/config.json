@@ -42,62 +42,7 @@
                     }
                 ]
             },
-            {
-                "type": "DropdownLink",
-                "label": "Execs",
-                "dropdownLinks": [
-                    {
-                        "type": "Link",
-                        "label": "2022-2023",
-                        "altText": "Link to 2022-2023 team's page",
-                        "url": "/execs-2022-2023",
-                        "showIcon": false,
-                        "icon": "arrowRight",
-                        "iconPosition": "right",
-                        "elementId": ""
-                    },
-                    {
-                        "type": "Link",
-                        "label": "2021-2022",
-                        "altText": "Link to 2021-2022 team's page",
-                        "url": "/execs-2021-2022",
-                        "showIcon": false,
-                        "icon": "arrowRight",
-                        "iconPosition": "right",
-                        "elementId": ""
-                    },
-                    {
-                        "type": "Link",
-                        "label": "2020-2021",
-                        "altText": "Link to 2020-2021 team's page",
-                        "url": "/execs-2020-2021",
-                        "showIcon": false,
-                        "icon": "arrowRight",
-                        "iconPosition": "right",
-                        "elementId": ""
-                    },
-                    {
-                        "type": "Link",
-                        "label": "2019-2020",
-                        "altText": "Link to 2019-2020 team's page",
-                        "url": "/execs-2019-2020",
-                        "showIcon": false,
-                        "icon": "arrowRight",
-                        "iconPosition": "right",
-                        "elementId": ""
-                    },
-                    {
-                        "type": "Link",
-                        "label": "2018-2019",
-                        "altText": "Link to 2018-2019 team's page",
-                        "url": "/execs-2018-2019",
-                        "showIcon": false,
-                        "icon": "arrowRight",
-                        "iconPosition": "right",
-                        "elementId": ""
-                    }
-                ]
-            },
+            
             {
                 "type": "Link",
                 "label": "Events",
