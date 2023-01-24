@@ -34,7 +34,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Learn More
+        label: Voluntário
         altText: ''
         url: 'https://discord.com/invite/hT8EpC5mUN'
         showIcon: false
