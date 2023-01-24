@@ -26,12 +26,6 @@
                     },
                     {
                         "type": "Link",
-                        "label": "Office Hours",
-                        "url": "/office-hours",
-                        "altText": "Office Hours"
-                    },
-                    {
-                        "type": "Link",
                         "label": "Blog",
                         "altText": "Blog",
                         "url": "https://flow.coflow.com.br/blog",
