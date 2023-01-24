@@ -108,6 +108,7 @@ sections:
         icon: arrowRight
         url: 'mailto:communications@ieeeuottawa.ca'
         style: primary
+        altText: Entre em Contato
     backgroundImage: null
     styles:
       self:
