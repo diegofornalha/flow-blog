@@ -1,9 +1,0 @@
-{
-    "type": "Person",
-    "firstName": "Gianluca",
-    "lastName": "Coletti",
-    "image": {
-        "url": "/images/team/gianluca-coletti.jpg",
-        "altText": "Gianluca Coletti photo"
-    }    
-}
