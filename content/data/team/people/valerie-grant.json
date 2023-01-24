@@ -1,9 +1,0 @@
-{
-    "type": "Person",
-    "firstName": "Valerie",
-    "lastName": "Grant",
-    "image": {
-        "url": "/images/team/valerie-grant.jpg",
-        "altText": "Valerie Grant photo"
-    }   
-}
