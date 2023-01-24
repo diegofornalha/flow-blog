@@ -30,7 +30,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: 'EMBARCAR '
+        label: ENTRAR NO DISCORD
         showIcon: true
         icon: arrowRight
         url: /
