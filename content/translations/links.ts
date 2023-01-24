@@ -30,5 +30,5 @@ export const translatedLinks = {
     "Opportunities": "Oportunidades",
     "Blogs": "Blogs",
     "Email Us": "Envie-nos um e-mail",
-    "Quero Ser um Voluntári": "Quem somos",
+    "Quero Ser um Voluntári": "Quero Ser um Voluntári",
 }
