@@ -139,11 +139,12 @@ metaTags:
     content: CoFlow Logo
   - type: MetaTag
     property: 'og:url'
-    content: 'https://flow.coflow.com.br/blog'
+    content: 'https://ieeeuottawa.ca/'
   - type: MetaTag
     property: 'og:site_name'
     content: CoFlow
   - type: MetaTag
     property: 'twitter:site'
-    content: '@diegofornalha'
+    content: '@ieeeuottawa'
+metaTitle: Powering Your Student Experience
 ---
