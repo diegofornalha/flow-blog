@@ -16,39 +16,7 @@ postFeed:
   variant: variant-a
   colors: colors-b
   actions: []
-topSections:
-  - type: FeaturedPostsSection
-    colors: colors-b
-    elementId: ''
-    titleFr: Posts
-    subtitleFr: Blog posts
-    showDate: true
-    showAuthor: false
-    showExcerpt: false
-    showReadMoreLink: true
-    readMoreLinkLabel: Join adventure
-    variant: variant-b
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
-    title: Seasonal adventure
-    subtitle: ''
-    posts:
-      - content/pages/blog/advocates.md
+topSections: []
 bottomSections: []
 styles:
   title:
