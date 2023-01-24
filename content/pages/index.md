@@ -69,7 +69,7 @@ sections:
           url: /images/browser.svg
           altText: discord
           caption: discord
-          width: 500
+          width: 400
           height: 500
           elementId: ''
       - type: FeaturedItem
