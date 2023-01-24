@@ -17,7 +17,7 @@ fields:
     default: Home address
   - type: string
     name: labelFr
-    label: Label [FR]
+    label: Label [PT]
     default: Home address
   - type: boolean
     name: hideLabel
