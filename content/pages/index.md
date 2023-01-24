@@ -15,32 +15,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: ContactSection
-    colors: colors-d
-    elementId: ''
-    backgroundSize: full
-    title: Meet our Blog
-    titleFr: Meet our Blog
-    media:
-      type: ImageBlock
-      url: /images/1.png
-      altText: Contact form image
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
   - type: FeaturedItemsSection
     colors: colors-b
     elementId: ''
