@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/",
+    "favicon": "",
     "header": {
         "headerVariant": "variant-b",
         "isSticky": true,
