@@ -90,7 +90,7 @@ sections:
       height: 768
       elementId: ''
   - type: FeaturedItemsSection
-    colors: colors-e
+    colors: colors-b
     elementId: ''
     title: What We Offer
     titleFr: À votre disposition
