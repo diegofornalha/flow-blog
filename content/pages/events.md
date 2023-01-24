@@ -179,45 +179,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        elementId: ''
-        title: CEG Career Panel
-        titleFr: Panel sur les carrières en CEG
-        subtitle: '11/07/2022, 6:30PM - 9PM'
-        subtitleFr: '07/11/2022, 18:30 - 21:00'
-        text: |
-          Location: CBY A04
-
-
-
-          Join us for a Computer Engineering Alumni Career Panel.
-        textFr: >
-          Lieu: CBY A04
-
-
-
-
-          Rejoignez-nous pour un panel de carrières d'anciens élèves en génie
-          informatique.
-        isIcon: false
-        featuredImage:
-          type: ImageBlock
-          url: /images/ceg-panel.jpeg
-          altText: CEG Career Panel Poster
-        featuredIcon: apple
-        actions:
-          - type: Button
-            label: Learn More
-            altText: ''
-            url: 'https://www.instagram.com/p/CkeBkvAuoJV/'
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        styles:
-          self:
-            textAlign: left
     actions:
       - type: Button
         label: More
