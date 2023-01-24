@@ -42,12 +42,7 @@
                 "url": "/events",
                 "altText": "Events"
             },
-            {
-                "type": "DropdownLink",
-                "label": "More",
-                "altText": "",
-                "dropdownLinks": []
-            }
+
         ],
         "secondaryLinks": [
             {
