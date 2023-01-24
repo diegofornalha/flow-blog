@@ -99,7 +99,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Get in touch
+    title: WhatsApp
     titleFr: Contactez-nous
     text: >
       Got a question? Event suggestions? Feedback? We want to hear it! Send us a
