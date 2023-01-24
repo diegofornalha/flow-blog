@@ -21,7 +21,7 @@ sections:
     titleFr: Posts
     subtitleFr: Blog posts
     showDate: true
-    showAuthor: false
+    showAuthor: true
     showExcerpt: true
     showReadMoreLink: true
     readMoreLinkLabel: Join adventure
