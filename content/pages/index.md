@@ -19,7 +19,7 @@ sections:
     colors: colors-b
     elementId: ''
     backgroundSize: full
-    title: Acelere cada etapa da sua carreira em programação
+    title: Acelere cada etapa da sua carreira em programação web3
     titleFr: Allons-y !
     text: >+
       ### O mapa completo para você impulsionar sua evolução e acessar as
