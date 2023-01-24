@@ -42,18 +42,7 @@
                 "url": "/events",
                 "altText": "Events"
             },
-            {
-                "type": "DropdownLink",
-                "label": "Advocates",
-                "altText": "",
-                "dropdownLinks": []
-            },
-            {
-                "type": "DropdownLink",
-                "label": "More",
-                "altText": "",
-                "dropdownLinks": []
-            }
+
         ],
         "secondaryLinks": [
             {
