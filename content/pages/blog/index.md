@@ -17,6 +17,7 @@ postFeed:
   colors: colors-a
   actions: []
   titleFr: discod
+  subtitleFr: discod
 topSections: []
 bottomSections: []
 styles:
