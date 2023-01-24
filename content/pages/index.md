@@ -101,9 +101,6 @@ sections:
     backgroundSize: full
     title: WhatsApp
     titleFr: WhatsApp
-    text: >
-      Got a question? Event suggestions? Feedback? We want to hear it! Send us a
-      message and we will get back to you as soon as we can.
     textFr: >
       Vous avez une question ? Des suggestions d'événements ? Des commentaires ?
       Nous voulons les entendre ! Envoyez-nous un message et nous vous
