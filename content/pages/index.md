@@ -26,7 +26,7 @@ sections:
     actions:
       - type: Button
         label: 'Quero Ser um Voluntário '
-        altText: Postagens Mais Recentes
+        altText: 'Quero Ser um Voluntário '
         url: /blog
         showIcon: false
         icon: arrowRight
