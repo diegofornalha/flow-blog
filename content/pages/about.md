@@ -89,34 +89,6 @@ sections:
       width: 1400
       height: 768
       elementId: ''
-  - type: FeaturedPeopleSection
-    colors: colors-e
-    elementId: ''
-    variant: variant-b
-    title: About us
-    subtitle: Featured people section example
-    actions: []
-    execs: []
-    people:
-      - content/data/team/vp-comms.json
-      - content/data/team/vice-chair.json
-      - content/data/team/chair.json
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
   - type: FeatureHighlightSection
     colors: colors-b
     elementId: ''
