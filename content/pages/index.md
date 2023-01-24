@@ -19,10 +19,7 @@ sections:
     colors: colors-b
     elementId: ''
     backgroundSize: full
-    title: >-
-      Acelere cada etapa da sua carreira em programação O mapa completo para
-      você impulsionar sua evolução e acessar as melhores oportunidades da sua
-      carreira como dev.
+    title: Acelere cada etapa da sua carreira em programação
     titleFr: Allons-y !
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
