@@ -30,7 +30,7 @@ sections:
         url: 'https://discord.com/invite/hT8EpC5mUN'
         showIcon: true
         icon: send
-        iconPosition: right
+        iconPosition: left
         elementId: ''
     columns: 3
     spacingX: 32
