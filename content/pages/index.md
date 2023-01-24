@@ -19,7 +19,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Contact us
+    title: Meet our Blog
     titleFr: lorem-ipsum
     text: We look forward to hearing from you.
     textFr: |-
