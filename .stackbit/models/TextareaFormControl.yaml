@@ -17,7 +17,7 @@ fields:
     default: Description
   - type: string
     name: labelFr
-    label: Label [FR]
+    label: Label [PT]
     default: Description
   - type: boolean
     name: hideLabel
