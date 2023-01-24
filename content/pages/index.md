@@ -28,7 +28,7 @@ sections:
         label: Voluntário
         altText: Voluntário
         url: 'https://discord.com/invite/hT8EpC5mUN'
-        showIcon: false
+        showIcon: true
         icon: send
         iconPosition: left
         style: primary
