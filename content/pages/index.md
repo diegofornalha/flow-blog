@@ -141,6 +141,7 @@ sections:
         icon: arrowRight
         url: /
         style: primary
+        altText: Entre em Contato
     backgroundImage: null
     styles:
       self:
