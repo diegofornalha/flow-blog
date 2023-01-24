@@ -1,9 +1,0 @@
-{
-    "type": "Person",
-    "firstName": "Scott",
-    "lastName": "Fulton",
-    "image": {
-        "url": "/images/team/scott-fulton.jpg",
-        "altText": "Scott Fulton photo"
-    }
-}
