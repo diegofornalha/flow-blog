@@ -16,7 +16,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: CtaSection
-    colors: colors-c
+    colors: colors-b
     elementId: ''
     backgroundSize: full
     title: Let's do this
