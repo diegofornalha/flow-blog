@@ -147,5 +147,4 @@ metaTags:
     property: 'twitter:site'
     content: '@ieeeuottawa'
 metaTitle: Powering Your Student Experience
-socialImage: /images/LOGO_HALLOWEEN.svg
 ---
