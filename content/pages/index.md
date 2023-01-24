@@ -33,7 +33,7 @@ sections:
         label: ENTRAR NO DISCORD
         showIcon: true
         icon: arrowRight
-        url: /
+        url: 'https://discord.com/invite/hT8EpC5mUN'
         style: primary
     backgroundImage: null
     styles:
