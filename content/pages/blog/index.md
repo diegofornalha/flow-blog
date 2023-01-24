@@ -6,7 +6,7 @@ addTitleSuffix: true
 socialImage: null
 metaTags: []
 title: discod
-titleFr: Titre de la page
+titleFr: discod
 numOfPostsPerPage: 10
 postFeed:
   title: null
