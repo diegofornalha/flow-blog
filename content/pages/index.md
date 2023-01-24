@@ -29,7 +29,7 @@ sections:
         altText: Voluntário
         url: 'https://discord.com/invite/hT8EpC5mUN'
         showIcon: false
-        icon: arrowRightCircle
+        icon: send
         iconPosition: left
         style: primary
         elementId: ''
