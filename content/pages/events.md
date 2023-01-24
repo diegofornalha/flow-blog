@@ -683,29 +683,6 @@ sections:
           caption: Cookies n' Cram ELG2138 Poster
           elementId: ''
       - type: FeaturedItem
-        title: Cookies n' Cram - ITI1120/GNG1106
-        titleFr: Cookies n' Cram - ITI1120/GNG1106
-        subtitle: '11/28/2021, 7PM - 9PM'
-        subtitleFr: '28/11/2021 - 19:00 - 21:00'
-        actions:
-          - type: Button
-            label: Learn More
-            showIcon: true
-            icon: arrowRight
-            url: 'https://www.facebook.com/events/410755914046650/'
-            style: secondary
-        styles:
-          self:
-            textAlign: left
-        featuredImage:
-          type: ImageBlock
-          width: 1080
-          height: 1080
-          url: /images/events/2021-2022/c&c-iti1120&1106.jpeg
-          altText: Cookies n' Cram ITI1120&GNG1106 Poster
-          caption: Cookies n' Cram ITI1120&GNG1106 Poster
-          elementId: ''
-      - type: FeaturedItem
         title: Cookies n' Cram - CEG2136
         titleFr: Cookies n' Cram - CEG2136
         subtitle: '11/28/2021, 1PM - 3PM'
