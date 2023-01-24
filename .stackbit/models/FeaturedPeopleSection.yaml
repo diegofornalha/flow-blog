@@ -42,7 +42,7 @@ fields:
         - Button
         - Link
   - type: list
-    name: execs
+    name: advocates
     label: Execs
     items:
       type: model
