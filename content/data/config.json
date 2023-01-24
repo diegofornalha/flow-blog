@@ -183,7 +183,7 @@
             {
                 "type": "Social",
                 "label": "Youtube",
-                "altText": "IEEE uOttawa Youtube",
+                "altText": "Youtube",
                 "icon": "youtube",
                 "style": "link",
                 "elementId": "",
