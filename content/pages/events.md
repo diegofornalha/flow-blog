@@ -473,29 +473,6 @@ sections:
           altText: Hackathon Poster
           caption: Hackathon Poster
           elementId: ''
-      - type: FeaturedItem
-        title: DeFi The Conventional
-        titleFr: DeFi The Conventional
-        subtitle: '03/25/2022, 6PM - 03/27/2022, 2PM'
-        subtitleFr: '23/03/2022, 18:00 - 27/03/2022, 14:00'
-        actions:
-          - type: Button
-            label: Learn More
-            showIcon: true
-            icon: arrowRight
-            url: 'https://www.facebook.com/events/1581853818855589/'
-            style: secondary
-        styles:
-          self:
-            textAlign: left
-        featuredImage:
-          type: ImageBlock
-          width: 1080
-          height: 1080
-          url: /images/events/2021-2022/dftc.jpeg
-          altText: Hackathon Poster
-          caption: Hackathon Poster
-          elementId: ''
     actions:
       - type: Button
         label: More
