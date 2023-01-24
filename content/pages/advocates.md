@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: advocates
+title: Advocates
 sections:
   - type: TextSection
     colors: colors-d
