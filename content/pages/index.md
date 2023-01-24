@@ -24,15 +24,6 @@ sections:
     subtitleFr: Benefícios exclusivos para voluntários.
     items: []
     actions:
-      - type: Button
-        label: Quero Ser um Voluntário
-        altText: Quero Ser um Voluntário
-        url: 'https://discord.com/invite/hT8EpC5mUN'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
       - type: Link
         label: Voluntário
         altText: ''
