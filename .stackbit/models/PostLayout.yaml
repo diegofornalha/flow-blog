@@ -15,7 +15,7 @@ fields:
     required: true
   - type: string
     name: titleFr
-    label: Title [FR]
+    label: Title [PT]
     default: Titre de blog
     required: true
   - type: enum
