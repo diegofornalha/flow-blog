@@ -32,7 +32,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: EMBARCAR NO FOGUETE
+        label: EMBARCAR
         showIcon: true
         icon: arrowRight
         url: /
