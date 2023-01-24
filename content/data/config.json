@@ -108,6 +108,16 @@
             },
             {
                 "type": "Link",
+                "label": "Learn More",
+                "altText": "",
+                "url": "/advocates",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "Events",
                 "altText": "Link to events page",
                 "url": "/events",
