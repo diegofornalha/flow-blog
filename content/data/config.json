@@ -109,7 +109,7 @@
             {
                 "type": "Link",
                 "label": "Learn More",
-                "altText": "",
+                "altText": "Advocates",
                 "url": "/advocates",
                 "showIcon": false,
                 "icon": "arrowRight",
