@@ -565,29 +565,6 @@ sections:
           altText: Cookies n' Cram CSI2110 Poster
           caption: Cookies n' Cram CSI2110 Poster
           elementId: ''
-      - type: FeaturedItem
-        title: IEEE EngiBEERing
-        titleFr: IEEE EngiBEERing
-        subtitle: '11/29/2021, 7:30PM'
-        subtitleFr: '29/11/2021, 18:00 - 27/03/2022, 14:00'
-        actions:
-          - type: Button
-            label: Learn More
-            showIcon: true
-            icon: arrowRight
-            url: 'https://www.facebook.com/events/3137232673172477/'
-            style: secondary
-        styles:
-          self:
-            textAlign: left
-        featuredImage:
-          type: ImageBlock
-          width: 1080
-          height: 1080
-          url: /images/events/2021-2022/fall-engibeering.jpeg
-          altText: Hackathon Poster
-          caption: Hackathon Poster
-          elementId: ''
     actions:
       - type: Button
         label: More
