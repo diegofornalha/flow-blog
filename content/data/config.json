@@ -153,9 +153,7 @@
     "footer": {
         "variant": "variant-b",
         "colors": "colors-c",
-        "contacts": {
-            "addressAltText": "Our address"
-        },
+        "contacts": {},
         "copyrightText": "CoFlow",
         "primaryLinks": [
             {
