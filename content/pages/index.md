@@ -20,7 +20,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Meet our Blog
-    titleFr: lorem-ipsum
+    titleFr: Meet our Blog
     text: We look forward to hearing from you.
     textFr: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
