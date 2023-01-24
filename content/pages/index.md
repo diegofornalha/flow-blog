@@ -15,53 +15,52 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: CtaSection
+  - type: FeaturedItemsSection
     colors: colors-b
     elementId: ''
-    backgroundSize: full
-    title: Accelerate every step of your career in web3 programming
-    titleFr: Acelere cada etapa da sua carreira em programação web3
-    text: >
-      The complete map for you to boost your evolution and access the best
-      opportunities.
-    textFr: >+
-      O mapa completo para você impulsionar sua evolução e acessar as melhores
-      oportunidades.
-
+    title: Meet our Blog
+    titleFr: Seja um Defensor!
+    subtitle: All about Flow Blockchain
+    subtitleFr: Benefícios exclusivos para voluntários.
+    items: []
     actions:
       - type: Button
-        label: ENTRAR NO DISCORD
-        showIcon: true
-        icon: arrowRight
+        label: Voluntário
+        altText: Voluntário
         url: 'https://discord.com/invite/hT8EpC5mUN'
+        showIcon: true
+        icon: arrowRightCircle
+        iconPosition: left
         style: primary
-        altText: ENTRAR NO DISCORD
-    backgroundImage: null
+        elementId: ''
+    columns: 3
+    spacingX: 32
+    spacingY: 32
+    enableHover: false
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         padding:
           - pt-28
-          - pb-28
+          - pb-36
           - pl-4
           - pr-4
-        alignItems: center
         justifyContent: center
-        flexDirection: col
       title:
-        textAlign: center
-      text:
-        textAlign: center
+        textAlign: left
+      subtitle:
+        textAlign: left
       actions:
-        justifyContent: center
+        justifyContent: flex-start
   - type: FeatureHighlightSection
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Follow me
+    title: Check out our gallery
     subtitle: ''
-    text: Flow Ambassador
+    text: |
+      Embaixador Flow
     textFr: |
       Embaixador Flow
     actions:
@@ -147,4 +146,9 @@ metaTags:
     property: 'twitter:site'
     content: '@ieeeuottawa'
 metaTitle: Powering Your Student Experience
+metaDescription: >-
+  The CoFlow is the official student branch for the University of Ottawa and the
+  official Sub-Association for ELG/CEG/SEG under the Engineering Students
+  Society (ESS).
+socialImage: /images/LOGO_HALLOWEEN.svg
 ---
