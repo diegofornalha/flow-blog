@@ -29,7 +29,7 @@ sections:
         altText: ''
         url: 'https://discord.com/invite/hT8EpC5mUN'
         showIcon: true
-        icon: arrowRight
+        icon: send
         iconPosition: right
         elementId: ''
     columns: 3
