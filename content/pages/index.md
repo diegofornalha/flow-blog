@@ -96,39 +96,6 @@ sections:
         justifyContent: center
     titleFr: Me siga
   - type: CtaSection
-    colors: colors-d
-    elementId: ''
-    backgroundSize: full
-    title: WhatsApp
-    titleFr: WhatsApp
-    actions:
-      - type: Button
-        label: Entre em Contato
-        showIcon: true
-        icon: arrowRight
-        url: 'mailto:communications@ieeeuottawa.ca'
-        style: primary
-        altText: Entre em Contato
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: CtaSection
     colors: colors-b
     elementId: ''
     backgroundSize: full
