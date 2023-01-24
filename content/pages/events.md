@@ -427,29 +427,6 @@ sections:
           altText: AGM 2022 Poster
           caption: AGM 2022 Poster
           elementId: ''
-      - type: FeaturedItem
-        title: Pomodoro Study Session
-        titleFr: Session d'étude Pomodoro
-        subtitle: '04/06/2022, 12PM - 6PM'
-        subtitleFr: '06/04/2022, 12:00 - 18:00'
-        actions:
-          - type: Button
-            label: Learn More
-            showIcon: true
-            icon: arrowRight
-            url: 'https://www.facebook.com/events/3180418992279982'
-            style: secondary
-        styles:
-          self:
-            textAlign: left
-        featuredImage:
-          type: ImageBlock
-          width: 1080
-          height: 1080
-          url: /images/events/2021-2022/c&c-pomodoro.jpeg
-          altText: Pomodoro Study Session Poster
-          caption: Pomodoro Study Session Poster
-          elementId: ''
     actions:
       - type: Button
         label: More
