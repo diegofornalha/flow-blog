@@ -60,7 +60,7 @@ sections:
     title: Check out our gallery
     subtitle: ''
     text: |
-      Visit our gallery to see photos of events we have hosted in the past.
+      Embaixador Flow
     textFr: |
       Visite nossa galeria para ver fotos de eventos que já realizamos.
     actions:
