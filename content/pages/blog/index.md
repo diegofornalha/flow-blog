@@ -11,7 +11,7 @@ numOfPostsPerPage: 10
 postFeed:
   title: null
   subtitle: null
-  showDate: true
+  showDate: false
   showAuthor: true
   variant: variant-a
   colors: colors-b
