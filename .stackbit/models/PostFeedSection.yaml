@@ -24,7 +24,7 @@ fields:
     default: Blog posts
   - type: string
     name: subtitleFr
-    label: Subtitle [FR]
+    label: Subtitle [PT]
     default: Blog posts
   - type: boolean
     name: showDate
