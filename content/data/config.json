@@ -51,6 +51,12 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "DropdownLink",
+                "label": "More",
+                "altText": "",
+                "dropdownLinks": []
             }
         ],
         "secondaryLinks": [
