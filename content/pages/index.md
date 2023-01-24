@@ -134,9 +134,8 @@ sections:
     backgroundSize: full
     title: WhatsApp
     titleFr: WhatsApp
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      WhatsApp
     textFr: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
