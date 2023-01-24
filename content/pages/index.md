@@ -21,7 +21,7 @@ sections:
     title: Meet our Blog
     titleFr: Seja um Defensor!
     subtitle: All about Flow Blockchain
-    subtitleFr: Tudo sobre Flow Blockchain
+    subtitleFr: Benefícios exclusivos para voluntários.
     items: []
     actions:
       - type: Button
