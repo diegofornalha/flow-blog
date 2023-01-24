@@ -134,8 +134,6 @@ sections:
     backgroundSize: full
     title: WhatsApp
     titleFr: WhatsApp
-    text: |
-      WhatsApp
     actions:
       - type: Button
         label: Try it now
