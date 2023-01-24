@@ -87,13 +87,7 @@ sections:
           elementId: ''
       - type: FeaturedItem
         title: Focused
-        actions:
-          - type: Button
-            label: Learn More
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
+        actions: []
         styles:
           self:
             textAlign: left
