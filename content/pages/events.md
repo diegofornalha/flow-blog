@@ -404,29 +404,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: Annual General Meeting
-        titleFr: Assemblée générale annuelle
-        subtitle: '04/30/2022, 10AM'
-        subtitleFr: '30/04/2022, 10:00'
-        actions:
-          - type: Button
-            label: Learn More
-            showIcon: true
-            icon: arrowRight
-            url: 'https://www.facebook.com/events/528520422048789'
-            style: secondary
-        styles:
-          self:
-            textAlign: left
-        featuredImage:
-          type: ImageBlock
-          width: 1080
-          height: 1080
-          url: /images/events/2021-2022/agm-2022.jpeg
-          altText: AGM 2022 Poster
-          caption: AGM 2022 Poster
-          elementId: ''
     actions:
       - type: Button
         label: More
