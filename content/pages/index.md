@@ -83,7 +83,7 @@ sections:
           altText: Cursos
           caption: Cursos
           width: 600
-          height: 500
+          height: 600
           elementId: ''
       - type: FeaturedItem
         title: Focused
