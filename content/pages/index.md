@@ -70,7 +70,7 @@ sections:
           altText: discord
           caption: discord
           width: 400
-          height: 500
+          height: 400
           elementId: ''
       - type: FeaturedItem
         actions: []
