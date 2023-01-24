@@ -129,7 +129,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: CtaSection
-    colors: colors-c
+    colors: colors-b
     elementId: ''
     backgroundSize: full
     title: Let's do this
