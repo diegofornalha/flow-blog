@@ -86,7 +86,6 @@ sections:
           height: 600
           elementId: ''
       - type: FeaturedItem
-        title: Focused
         actions: []
         styles:
           self:
