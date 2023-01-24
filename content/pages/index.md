@@ -49,7 +49,6 @@ sections:
           placeholder: Your home address
           isRequired: 'false'
           width: full
-      submitLabel: Send Message
     media:
       type: ImageBlock
       url: /images/hero-2.png
