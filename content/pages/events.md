@@ -337,42 +337,6 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-      - type: FeaturedItem
-        elementId: ''
-        title: DART Watch Party
-        titleFr: Soirée de visionnement du lancement de DART
-        subtitle: '09/26/2022, 6PM - 7:30PM'
-        subtitleFr: '26/09/2022, 18:00 - 19:30'
-        text: >
-          Location: STE 4026
-
-
-          Join us to watch as NASA makes history with the DART (Double Asteroid
-          Redirection Test) mission.
-        textFr: >
-          Lieu: STE 4026
-
-
-          Rejoignez-nous pour voir la NASA entrer dans l'histoire avec la
-          mission DART (Double Asteroid Redirection Test).
-        isIcon: false
-        featuredImage:
-          type: ImageBlock
-          url: /images/DART Launch Event.jpeg
-          altText: Spectroscopy Seminar Poster
-        featuredIcon:
-          label: Apple
-          value: apple
-        actions:
-          - type: Button
-            label: Learn More
-            altText: ''
-            url: 'https://www.instagram.com/p/Ci3qn9dNlHU/'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
     actions:
       - type: Button
         label: More
